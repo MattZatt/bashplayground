@@ -104,4 +104,3 @@ escalation() {
 
 escalation
 douknow
-listpath
